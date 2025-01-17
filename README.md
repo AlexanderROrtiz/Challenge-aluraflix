@@ -31,7 +31,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/AlexanderROrtiz/Challenge-aluraflix.git
-   cd aluraflix
+   cd Challenge-aluraflix
    ```
 
 2. Instala las dependencias:
